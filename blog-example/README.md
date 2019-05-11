@@ -1,5 +1,5 @@
 # Build any blog with Django
-![home](https//imgur.com/e5NbjlE)
+![home](https://i.imgur.com/3BuMsUW.png)
 <img src="https://imgur.com/dyXj0rr">
 <img src="https://imgur.com/scCeesf">
 <img src="https://imgur.com/zwE4B5H">
