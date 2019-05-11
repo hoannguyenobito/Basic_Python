@@ -1,5 +1,5 @@
 # Build any blog with Django
-!![alt text](https//imgur.com/e5NbjlE)
+![stack Overflow](http://lmsotfy.com/so.png)
 <img src:="https//imgur.com/e5NbjlE">
 <img src="https://imgur.com/dyXj0rr">
 <img src="https://imgur.com/scCeesf">
